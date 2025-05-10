@@ -230,7 +230,7 @@ void read_analog()
     }
     else
     {
-        printf("Erro ao ler sensor DHT11\n");
+        printf("Erro ao ler sensor DHT22\n");
         temperatura = 0.0;
         sensor_data = 0.0;
     }

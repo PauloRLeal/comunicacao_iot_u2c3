@@ -74,3 +74,4 @@ Desenvolvido por Paulo Roberto Araújo Leal.
 - [Página web desenvolvida para visualização dos dados enviados ao servidor ThingSpeak](https://v0-real-time-web-app-nu.vercel.app/)
 - [Visualização dos gráficos no servidor do ThingSpeak](https://thingspeak.mathworks.com/channels/2952597)
 - [Documentação explicativa do projeto](https://docs.google.com/document/d/1QmjtPQbKv75fYgCW9ZC__xgsdDB3R5dtR7qd71a4LPk/edit?usp=sharing)
+- [Versão com servidor na rede local, elaborado com base no algoritmo exemplo 'led_control_webserver'](https://github.com/PauloRLeal/sistema_de_monitoramento_simples.git)

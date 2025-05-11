@@ -63,6 +63,13 @@ Este repositório apresenta um projeto de Internet das Coisas (IoT) utilizando a
 Caso o seu sistema de controle e monitoramento não envie os dados para o servidor do ThingSpeak, verifique se configurou corretamente as informações da rede Wi-Fi e as credenciais do ThingSpeak.
 
 
+## Padrão de dados
+> * Botão A e B: 0 ou 1.
+> * Joystick X e Y: Intervalo fechado em ponto flutuante de -1.0 à 1.0.
+> * Rosa dos ventos: Centro - 0, Norte - 1, Sul - 2, Leste - 3, Oeste - 4, Nordeste - ,5 Noroeste - 6, Sudeste - 7, Sudoeste - 8, Indefinido - (-1).
+
+
+
 ## Direitos de Uso
 Este projeto é disponibilizado para leitura e citação em outros trabalhos. Caso utilize este projeto como referência, por favor, forneça os devidos créditos ao autor.
 

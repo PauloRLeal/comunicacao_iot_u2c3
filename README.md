@@ -1,4 +1,4 @@
-# Tarefa U2C3 EmbarcaTeck: Sistema IoT
+# Tarefa U2C3 EmbarcaTech: Sistema IoT
 
 Este repositório apresenta um projeto de Internet das Coisas (IoT) utilizando a placa BitDogLab, centrada no microcontrolador Raspberry Pi Pico W. O objetivo é realizar a coleta e transmissão de dados oriundos de sensores digitais e analógicos, como botões, joystick e sensor DHT22, enviando-os para a plataforma ThingSpeak para monitoramento remoto através de uma interface web. O sistema é capaz de ler o estado de dois botões, a posição de um joystick, a umidade e temperatura do ambiente, e então envia esses dados pela internet, via protocolo HTTP. Essa implementação reforça o aprendizado prático de redes embarcadas e sensores no contexto da computação física.
 

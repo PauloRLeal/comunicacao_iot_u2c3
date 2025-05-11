@@ -24,10 +24,9 @@ Este repositório apresenta um projeto de Internet das Coisas (IoT) utilizando a
 ## Estrutura do Repositório
 ```
 /
-├── libs/            # Bibliotecas e sdk
 ├── comunicacao_iot_u2c3.c           # Arquivo C principal
-├── CMakeList.txt    # Arquivo de compilação
-└── README.md            # Este arquivo
+├── CMakeList.txt                    # Arquivo de compilação
+└── README.md                        # Este arquivo
 ```
 
 ## Configuração e Uso
